@@ -1,0 +1,42 @@
+/*
+        Scene scene01 = new Scene();
+        scene01.setCamera(new Camera(new Vector3D(0, 0, -4), 80, 80,
+                800, 800, 2, 60));
+
+        scene01.addLight(new PointLight( new Vector3D(-3,3  ,3),Color.WHITE, 2.1));
+        scene01.addLight(new PointLight( new Vector3D(3,-2,-4),Color.WHITE, 1.1));
+
+        Object3D sphere = new Sphere(new Vector3D(4,-2,3), 1,Color.ORANGE);
+        sphere.setReflection(0.5);
+        scene01.addObject(sphere);
+
+        scene01.addObject(new Sphere(new Vector3D(0,-3,-3.5),2, Color.BLUE ));
+
+        Object3D teaPot = ObjReader.getModel3D("obj/SmallTeapot.obj", new Vector3D(0,-4,2.5),Color.RED, 0, 45, 0, 1);
+        teaPot.setReflection(0.5);
+        scene01.addObject(teaPot);
+
+
+
+        scene01.addObject(ObjReader.getModel3D("obj/Cube.obj", new Vector3D(-4,-2,4), Color.GREEN));
+
+        Object3D cube = ObjReader.getModel3D("obj/plano2.obj", new Vector3D(-3,-1,1), Color.CYAN, 270, 20, 45,0.05);
+        cube.setRefraction(1.3);
+        scene01.addObject(cube);
+
+        Object3D sphere2 = new Sphere(new Vector3D(0,-2, 0), 0.8, Color.MAGENTA);
+        sphere2.setRefraction(3.3);
+        scene01.addObject(sphere2);
+
+        scene01.addObject(ObjReader.getModel3D("obj/Ring.obj", new Vector3D(3,-1,4),Color.BLUE));
+        scene01.addObject(ObjReader.getModel3D("obj/Ring.obj", new Vector3D(-3, 3,2), new Color(123,141, 230), 45, 45,45));
+        Object3D plano = ObjReader.getModel3D("obj/plano2.obj", new Vector3D(0,-5,0), Color.GRAY, 2);
+        plano.setReflection(0.5);
+        scene01.addObject(plano);
+
+        Object3D plano2  = ObjReader.getModel3D("obj/plano2.obj", new Vector3D(0,0,5), Color.GRAY, 270,0,0);
+        plano2.setReflection(0);
+        scene01.addObject(plano2);
+        raytrace(scene01);
+        FileManager.saveImage(image, "image", "png");
+//*/
