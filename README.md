@@ -43,6 +43,8 @@ Define objects in the scene by adding them to the scene01 object, specifying the
 You can also use the *sample_scene.txt* file
 
 ### 🎨 Example Output
+![Rendered Scene Example](./assets/Render1.png)
+![Rendered Scene Example](./assets/Render2.png)
 
 ### 📚 Project Structure
 - Scene: Contains definitions for camera, lights, and objects.
