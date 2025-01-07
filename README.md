@@ -44,7 +44,7 @@ You can also use the *sample_scene.txt* file
 
 ### 🎨 Example Output
 ![Rendered Scene Example](./assets/Render1.png)
-[![Video Title](https://img.youtube.com/vi/Nh4iuYeb88w.jpg)](https://www.youtube.com/watch?v=Nh4iuYeb88w)
+[![Video Title](https://img.youtube.com/vi/Nh4iuYeb88w/0.jpg)](https://www.youtube.com/watch?v=Nh4iuYeb88w)
 ![Rendered Scene Example](./assets/Render2.png)
 
 ### 📚 Project Structure
