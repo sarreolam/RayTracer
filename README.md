@@ -43,7 +43,7 @@ Define objects in the scene by adding them to the scene01 object, specifying the
 You can also use the *sample_scene.txt* file
 
 ### 🎨 Example Output
-![Rendered Scene Example](./assets/Render1.png)
+![Rendered Scene Example](./assets/RenderWithLogo.png)
 [![Video Title](https://img.youtube.com/vi/Nh4iuYeb88w/0.jpg)](https://www.youtube.com/watch?v=Nh4iuYeb88w)
 ![Rendered Scene Example](./assets/Render2.png)
 
